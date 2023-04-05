@@ -1,0 +1,21 @@
+section{
+    		width: 100vw;
+    		height: 100vh;
+    		padding: 50px;
+    	}
+.cl_white{
+    		color: white;
+    	}
+img{
+    		width: 300px;
+    		opacity: 1s ease-in-out;
+    	}
+img:hover{
+    		opacity: .5;
+    	}
+.col-text{
+    -webkit-column-count :3;
+}   
+.navbar{
+    height: 50px;
+}
